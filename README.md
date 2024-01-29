@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karri Narendra Reddy</h1>
 <h3 align="center">A passionate Front-End Developer and QA Automation Engineer</h3>
 
-- 🔭 I’m currently working in [NielsenIQ](NIQ) as a QA Automation Engineer
+- 🔭 I’m currently working in [NielsenIQ](NIQ)
 
 - 🌱 I’m currently learning **Vue js along with advance web3 Technologies**
 
@@ -77,9 +77,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>    
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
