@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karri Narendra Reddy</h1>
-<h3 align="center">A passionate Front-End Developer and QA Automation Engineer</h3>
+<h3 align="center">A passionate Full Stack Developer and QA Automation Engineer</h3>
 
 - 🔭 I’m currently working in [NielsenIQ](NIQ)
 
